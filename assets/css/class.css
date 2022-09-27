@@ -1,0 +1,25 @@
+.main-bg{
+    background-image: url("../img/background.svg");
+    background-position: center center;
+    background-size: cover;
+    color: var(--white-color);
+}
+.white-bg{
+    background-image: url("../img/white-bg.svg");
+    color: var(--primary-color);
+}
+.main-content{
+    max-width: 120rem;
+    margin: 0 auto;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.section {
+    min-height: 100vh;
+    padding: 8rem var(--gap);
+}
+
+.menu-spacing{
+    height: 65px;
+}
