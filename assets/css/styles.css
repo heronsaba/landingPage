@@ -219,8 +219,6 @@ div.full-width {
     }
 
     .menu {
-        display: block;
-        text-align: center;
         height: 0rem;
         overflow-y: hidden;
         border: 0cm;
